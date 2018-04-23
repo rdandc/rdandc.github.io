@@ -837,9 +837,9 @@ console.log('%c Proudly Crafted with ZiOn.', 'background: #222; color: #bada55')
             var marker = new google.maps.Marker({
                 position: mkr,
                 icon: image,
-                title: 'Titan',
+                title: 'Ramos Design and Consulting',
                 infoWindow: {
-                    content: '<p><strong>Rival</strong><br/>121 Somewhere Ave, Suite 123<br/>P: (123) 456-7890<br/>Australia</p>'
+                    content: '<p><strong>Ramos Design and Consulting</strong><br/>13163 Valewood Road. Poway, CA<br/>P: (858) 213-7356<br/></p>'
                 },
                 map: map,
             });
